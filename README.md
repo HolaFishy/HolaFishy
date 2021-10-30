@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Hola_Fishy! 
+- I enjoy programming in Python, and I am currently using the Discord.py library to create discord bots :)
+- I'm currently taking Python and computer science classes in school, and hoping to use it in my future more.
+- 📫 How to reach me: You may add me on discord (Hola_Fishy#4591), or join my discord server (https://discord.gg/G8XEhAkpnj) and contact me there!
